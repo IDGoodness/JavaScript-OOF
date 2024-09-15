@@ -1,5 +1,5 @@
 // Basic Math Operations add, mul, sub, div, mul
-// Assignment --- mod(remainder) and power(exponent) operation, concantenate strings, logarithm operation, circumference operation, palindrome
+// Assignment --- mod(remainder) and power(exponent) operation, concantenate strings, logarithm operation, circumference operation, palindrome, quadractic calculation
 
 
 
