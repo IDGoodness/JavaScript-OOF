@@ -1,0 +1,1 @@
+// A function to calculate the logarithm of a number
